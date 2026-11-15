@@ -1,0 +1,3 @@
+# DISCLAIMER
+
+This whole project is vibecoded or atleast 95% vibecoded for the reason that the programmer behind it is a complete 0 level programmer with little knowledge but has the ambition of CEO level. This is also an ongoing project that i will add features once they come to mind, the creator is open for criticism and ofcourse, suggestions. so thank you and God bless you programmers and viewers!!
