@@ -1,4 +1,0 @@
-.env
-genre_cache.json
-.spotify_token_cache
-__pycache__/
